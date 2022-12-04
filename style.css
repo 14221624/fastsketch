@@ -1,0 +1,39 @@
+body
+{
+    background-image: url(bg.jpeg);
+}
+
+div
+{
+    background-color: wheat;
+    border-radius: 20px;
+    width: 50%;
+}
+
+#hd
+{
+    background-color: wheat;
+    border-radius: 20px;
+    width: 50%;
+}
+
+
+#timer
+{
+    margin-right: 200px;
+}
+
+canvas
+{
+    border: 0px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 80px red;
+    margin-top: 50px;
+    margin-bottom: 30%;
+    margin-left: 550px;
+}
+
+#id
+{
+    margin-top: 0px;
+}
